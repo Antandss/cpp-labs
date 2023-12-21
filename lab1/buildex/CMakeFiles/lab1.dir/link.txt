@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblab1.a CMakeFiles/lab1.dir/helloworld.cc.o CMakeFiles/lab1.dir/coding.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblab1.a

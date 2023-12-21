@@ -1,0 +1,1 @@
+readWord.o: readWord.cc

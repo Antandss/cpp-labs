@@ -1,0 +1,8 @@
+add_library(lab1 helloworld.cc coding.cc )
+
+
+add_executable(Exencode encode.cc)
+target_link_libraries (Exencode lab1)
+
+add_executable(Exdecode decode.cc)
+target_link_libraries (Exdecode lab1)

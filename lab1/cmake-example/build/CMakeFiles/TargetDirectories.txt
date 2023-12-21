@@ -1,0 +1,6 @@
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/cmake-example/build/CMakeFiles/SimpleMain.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/cmake-example/build/CMakeFiles/edit_cache.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/cmake-example/build/CMakeFiles/rebuild_cache.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/cmake-example/build/testlib/CMakeFiles/TestLib.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/cmake-example/build/testlib/CMakeFiles/edit_cache.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/cmake-example/build/testlib/CMakeFiles/rebuild_cache.dir

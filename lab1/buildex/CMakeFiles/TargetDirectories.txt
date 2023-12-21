@@ -1,0 +1,5 @@
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/buildex/CMakeFiles/lab1.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/buildex/CMakeFiles/Exencode.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/buildex/CMakeFiles/Exdecode.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/buildex/CMakeFiles/edit_cache.dir
+/Users/anthonandersson/edafdir/labs-edaf50/lab1/buildex/CMakeFiles/rebuild_cache.dir
